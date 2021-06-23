@@ -3,21 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplogit1;
+package ejemplo2;
 
 /**
  *
  * @author PC1
  */
-public class Ejemplogit1 {
+public class Ejemplo2 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        //hola.......
-
+        // TODO code application logic here
     }
     
 }
